@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="banner.svg" alt="Automation & Reconciliation Portfolio banner" width="100%"/>
+
+**[Recruiter guide (start here)](./RECRUITER_START_HERE.md)** · **[Resumen en español](./README_ES.md)**
+
+</div>
+
+---
+
 # Automation Portfolio
 
 A collection of automation projects I have built as a developer on payroll, accounting, and reconciliation processes. Each folder has an overview of the problem, the solution, and the results.
